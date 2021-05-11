@@ -21,6 +21,6 @@
     "clean-webpack-plugin": "^0.1.17",
     "html-webpack-plugin": "^2.29.0",
     "uglifyjs-webpack-plugin": "^2.2.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
